@@ -1,3 +1,3 @@
-s=str(input(""))
-t=s[::-1]
-print(t)
+nu=str(input(""))
+r=nu[::-1]
+print(r)
